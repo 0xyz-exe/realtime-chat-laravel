@@ -2,6 +2,19 @@
 
 Authenticated one-to-one messaging with persisted conversations/messages and browser polling every two seconds. No fabricated sample messages or external realtime service required.
 
+---
+
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Kotak Masuk Pesan & Saluran Percakapan**<br>Daftar percakapan aktif dengan ringkasan jumlah pesan, cuplikan pesan terakhir, dan formulir inisiasi percakapan baru | ![Kotak Masuk Pesan](docs/screenshots/01-chat-inbox-channels.png) |
+| **Utas Percakapan Real-Time Aktif**<br>Tampilan obrolan langsung dengan gelembung pesan masuk/keluar terbedakan, nama pengirim, dan cap waktu pesan | ![Utas Percakapan Real-Time](docs/screenshots/02-active-conversation-thread.png) |
+| **Komposer Pesan & Alur Pengiriman Pesan**<br>Interaksi pengiriman pesan instan dengan kotak input teks, tombol kirim, dan mekanisme polling sinkronisasi real-time | ![Komposer Pesan](docs/screenshots/03-chat-messaging-flow.png) |
+| **Saluran Kolaborasi Tim & Diskusi Teknis**<br>Diskusi kolaboratif lintas peran (DevOps & Arsitektur Cloud) dalam peninjauan implementasi infrastruktur sistem | ![Saluran Kolaborasi Tim](docs/screenshots/04-devops-channel-thread.png) |
+
+---
+
 ## Local setup (Windows)
 
 ```powershell
