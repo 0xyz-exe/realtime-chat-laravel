@@ -34,12 +34,3 @@ npm audit --omit=dev
 ```
 
 Keep `.env`, personal data, dependencies, SQLite databases, and build output out of Git. No user or message content is seeded.
-
-
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](docs/screenshots/01_dashboard.png)
-
-### Login Overview
-![Login](docs/screenshots/02_login.png)
